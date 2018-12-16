@@ -1,0 +1,8 @@
+[
+  "test/action_mapper/test_class.py::TestValidate::test_get_error_response",
+  "test/action_mapper/test_class.py::TestValidate::test_get_success_response",
+  "test/action_mapper/test_class.py::TestValidate::test_run_action_error_flow",
+  "test/action_mapper/test_class.py::TestValidate::test_run_action_success_flow",
+  "test/action_mapper/test_class.py::TestValidate::test_run_fail",
+  "test/action_mapper/test_class.py::TestValidate::test_run_success"
+]
